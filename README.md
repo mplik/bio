@@ -7,7 +7,7 @@ Passionate professional with experience in the industry. Committed to delivering
 **E-mail: jan.komalski@example.com
 **LinkedIn:**linkedin.com/in/jankomalski
 
-![Jan Komalski]()
+<img src="images/selfie_meta_horizon.png" alt="Jan Komalski" width="120" />
 
 ---
 
