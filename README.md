@@ -18,7 +18,7 @@ Specjalizuję się w strategiach marketingowych i analizie rynku. Posiadam umiej
 ## Doświadczenie zawodowe
 
 ### Specjalista ds. marketingu
-**Tech Solutions Warszawa, Polska
+**Tech Solutions** - Warszawa, Polska
 **Styczeń 2020 - Obecnie**
 - Opracowanie i wdrożenie strategii marketingowej, co przyczyniło się do zwiększenia sprzedaży o 30 %.
 - Zarządzanie kampaniami reklamowymi w mediach społecznościowych, zwiększając zasięg o 50%.
