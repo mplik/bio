@@ -63,6 +63,6 @@ Specjalizuję się w strategiach marketingowych i analizie rynku. Posiadam umiej
 ## Referencje
 Dostępne na życzenie
 
-[Moj życiorys][def]
+[Pobierz życiorys (PDF)][def]
 
-[def]: dosc/życiorys.pdf
+[def]: https://github.com/mplik/bio/raw/main/docs/%C5%BCyciorys.pdf
