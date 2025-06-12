@@ -2,10 +2,10 @@
 Passionate professional with experience in the industry. Committed to delivering high-quality results. Enthusiastic about new challenges and collaboration.
 
 # Jan Komalski
-**Adres:**Ulica Przykładowa 12, 00-000 Warszawa
+**Adres:** Ulica Przykładowa 12, 00-000 Warszawa
 **Telefon:** +48 123 456 789
-**E-mail: jan.komalski@example.com
-**LinkedIn:**linkedin.com/in/jankomalski
+**E-mail:** jan.komalski@example.com
+**LinkedIn:** linkedin.com/in/jankomalski
 
 <img src="images/selfie_meta_horizon.png" alt="Jan Komalski" width="120" />
 
