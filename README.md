@@ -70,4 +70,4 @@ Dostępne na życzenie
 [Pobierz życiorys (PDF)][def]
 
 [def]: https://github.com/mplik/bio/raw/main/docs/%C5%BCyciorys.pdf
-[def2]: index.html
+[def2]: presentation/index.html
