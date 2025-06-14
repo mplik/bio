@@ -1,51 +1,47 @@
 <!doctype html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Moja Prezentacja</title>
-    <link rel="stylesheet" href="node_modules/reveal.js/dist/reveal.css">
-    <link rel="stylesheet" href="node_modules/reveal.js/dist/theme/black.css">
-    <style>
-        /* Dodatkowe style dla slajdów */
+<html> 
+ <head> 
+  <meta charset="utf-8"> 
+  <title>Moja Prezentacja</title> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.css"> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/theme/black.css" id="theme"> 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.js"></script> 
+  <style>
+        /* Dodatkowe style dla prezentacji */
         section {
-            font-family: Arial, sans-serif;
-            font-size: 24px;
-            color: #fff;
+            font-size: 2em;
+            text-align: center;
+            padding: 20px;
         }
-    </style>
-</head>
-<body>
-    <div class="reveal">
-        <div class="slides">
-            <section>
-                <h1>Witaj w mojej prezentacji!</h1>
-                <p>Wprowadzenie do tematu</p>
-            </section>
-            <section>
-                <h2>Temat 1</h2>
-                <ul>
-                    <li>Punkt 1</li>
-                    <li>Punkt 2</li>
-                    <li>Punkt 3</li>
-                </ul>
-            </section>
-            <section>
-                <h2>Temat 2</h2>
-                <p>Opis szczegółowy tego tematu.</p>
-                <img src="images/your-image.jpg" alt="Opis obrazka" />
-            </section>
-            <section>
-                <h2>Podsumowanie</h2>
-                <p>Dziękuję za uwagę!</p>
-            </section>
-        </div>
-    </div>
-    <script src="node_modules/reveal.js/dist/reveal.js"></script>
-    <script>
-        Reveal.initialize({
-            transition: 'slide', // Możliwe wartości: 'slide', 'fade', 'zoom', 'none'
-            slideNumber: true, // Wyświetlanie numerów slajdów
-        });
-    </script>
-</body>
+    </style> 
+ </head> 
+ <body> 
+  <div class="reveal"> 
+   <div class="slides"> 
+    <section> 
+     <h1>Witaj w Mojej Prezentacji!</h1> 
+     <p>To jest pierwszy slajd.</p> 
+    </section> 
+    <section> 
+     <h2>Drugi Slajd</h2> 
+     <p>Możesz dodawać różne treści.</p> 
+    </section> 
+    <section> 
+     <h2>Trzeci Slajd</h2> 
+     <ul> 
+      <li>Punkt pierwszy</li> 
+      <li>Punkt drugi</li> 
+      <li>Punkt trzeci</li> 
+     </ul> 
+    </section> 
+    <section> 
+     <h2>Dziękuję za uwagę!</h2> 
+     <p>Masz pytania?</p> 
+    </section> 
+   </div> 
+  </div> 
+  <script>
+        Reveal.initialize();
+    </script> 
+ </body>
 </html>
