@@ -1,79 +1,59 @@
 <!doctype html>
-<html> 
- <head> 
-  <meta charset="utf-8"> 
-  <title>Moja Prezentacja</title>
-  
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Moja Prezentacja</title>
+
    <link rel="icon" href="https://github.com/mplik/bio/blob/main/images/cv_250_bio.png?raw=true" sizes="250x250" />
-   <link rel="icon" href="https://github.com/mplik/bio/blob/main/images/cv_500_bio.png?raw=true" sizes="500x500" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.css"> 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/theme/black.css" id="theme"> 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.js"></script> 
-  <style>
-        /* Dodatkowe style dla prezentacji */
-        section {
-            font-size: 1.5em;
-            text-align: center;
-            padding: 10px;
-            margin: 10;
+   <link rel="icon" href="https://github.com/mplik/bio/blob/main/images/cv_500_bio.png?raw=true" sizes="500x500" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/theme/moon.css" id="theme">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(to bottom, #1a1a1a, #333);
+            color: #fff;
+        }
+        h1, h2 {
+            color: #ffcc00;
         }
         ul {
+            list-style: none;
             padding: 0;
-            margin: 10px;
         }
-        li {
-            margin: 5px 0;
+        ul li {
+            margin: 10px 0;
         }
-        img {
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        }
-    </style> 
- </head> 
- <body> 
-  <div class="reveal"> 
-   <div class="slides"> 
-    <section> 
-     <h1>Witaj w Mojej Prezentacji!</h1> 
-     <p>To jestem ja w świecie Meta Horizon</p> 
-    </section> 
-    <section> 
-     <h2>Drugi Slajd</h2> 
-     <p>To ja.</p>
-     <img src="https://github.com/mplik/bio/blob/main/images/selfie_meta_horizon%20(2).png?raw=true" alt="Mój avatar w Meta Horizon" style="width: 300px;" /> 
-    </section> 
-    <section> 
-     <h2>O mnie</h2>
-     <ul> 
-      <li>Pasjonat nowej technologii i wirtualnej rzeczywistości.</li> 
-      <li>Aktywny użytkownik Meta Horizon od 2023 roku.</li> 
-      <li>Lubię poznawać ludzi i eksplorować nowe światy.</li> 
-     </ul> 
-    </section>
-    <section>
-    <h2>Moje ulubione aktywności</h2>
-    <ul>
-        <li>Tworzenie własnych przestrzeni VR.</li>
-        <li>Spotkania i eventy społecznościowe.</li>
-        <li>Eksperymentowanie z awatarami i personalizacją.</li>
-    </ul>
-</section>
-<section>
-    <h2>Dlaczego Meta Horizon?</h2>
-    <ul>
-        <li>Możliwość bycia kimkolwiek i gdziekolwiek.</li>
-        <li>Inspirujące spotkania z ludźmi z całego świata.</li>
-        <li>Nieograniczone możliwości rozwoju i zabawy.</li>
-    </ul>
-</section> 
-    <section> 
-     <h2>Dziękuję za uwagę!</h2> 
-     <p>Masz pytania? do zobaczenia w świecie Meta Horizon.</p> 
-    </section> 
-   </div> 
-  </div> 
-  <script>
-        Reveal.initialize();
-    </script> 
- </body>
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+            <section>
+                <h1>Witaj w Mojej Prezentacji!</h1>
+                <p>To jestem ja w świecie Meta Horizon</p>
+                <img src="https://github.com/mplik/bio/blob/main/images/selfie_meta_horizon%20(2).png?raw=true" alt="Mój avatar w Meta Horizon" style="width: 300px;" /> 
+            </section>
+            <section>
+                <h2>Kim jestem</h2>
+                <ul>
+                    <li>Pasjonat nowej technologii</li>
+                    <li>Aktywny użytkownik Meta Horizon</li>
+                    <li>Lubię poznawać ludzi i eksplorować nowe światy</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Dziękuję za uwagę!</h2>
+                <p>Masz pytania? Do zobaczenia w Meta Horizon!</p>
+            </section>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.js"></script>
+    <script>
+        Reveal.initialize({
+            transition: 'fade',
+        });
+    </script>
+</body>
 </html>
