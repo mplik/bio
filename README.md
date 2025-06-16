@@ -1,3 +1,5 @@
+<!-- GitAds-Verify: XLLOLEQHZFBBFOMC1ACNH2WLN3141Q6N -->
+
 # bio
 Passionate professional with experience in the industry. Committed to delivering high-quality results. Enthusiastic about new challenges and collaboration.
 
