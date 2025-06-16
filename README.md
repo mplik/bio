@@ -3,6 +3,10 @@
 # bio
 Passionate professional with experience in the industry. Committed to delivering high-quality results. Enthusiastic about new challenges and collaboration.
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=mplik/bio@github)](https://gitads.dev/v1/ad-track?source=mplik/bio@github)
+
+
 # Jan Komalski
 **Adres:** Ulica Przykładowa 12, 00-000 Warszawa
 **Telefon:** +48 123 456 789
